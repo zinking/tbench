@@ -1,0 +1,8 @@
+{
+  "host": "9.138.162.63",
+  "port": "3365",
+  "user": "benchwriter",
+  "pass": "tpcds-sf1000",
+  "db": "benchmark",
+  "tb": "benchrun"
+}
